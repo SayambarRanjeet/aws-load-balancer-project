@@ -30,3 +30,24 @@ Internet → ALB → Target Group → EC2 (Apache)
 
 ## 👨‍💻 Created By
 Ranjeet Sayambar
+---
+
+## 📸 Project Screenshots
+
+### 🏗️ VPC Architecture
+![VPC](screenshots/VPC%20Screenshot%20from%202026-02-24%2012-40-38.png)
+
+### 🖥️ EC2 Instance
+![EC2](screenshots/EC2instance%20Screenshot%20from%202026-02-24.png)
+
+### 🎯 Target Group
+![TargetGroup](screenshots/Targetgroup%20Screenshot%20from%202026-02-24.png)
+
+### ⚖️ Load Balancer
+![ALB](screenshots/ALB%20Screenshot%20from%202026-02-24.png)
+
+### 🌐 Website Output
+![Website](screenshots/resultlast%20Screenshot%20from%202026-02-24.png)
+
+### 🔧 Apache Status
+![Apache](screenshots/apache-status.png)
